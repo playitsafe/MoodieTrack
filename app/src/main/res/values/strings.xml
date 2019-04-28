@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoodieTrack</string>
+    <string name="nav_home">Journals</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_track">Track</string>
+    <string name="nav_bin">Deleted</string>
+</resources>
