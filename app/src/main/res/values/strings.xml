@@ -4,4 +4,14 @@
     <string name="nav_search">Search</string>
     <string name="nav_track">Track</string>
     <string name="nav_bin">Deleted</string>
+    <string name="journalTitleHint">Enter your title here..</string>
+    <string name="write_body">Add more about your feeling</string>
+    <string name="btn_write_more">Add More Details</string>
+    <string name="btn_quick_save">Quick Save</string>
+    <string name="lbl_feeling">I\'m feeling</string>
+    <string name="journalTitleLable">Journal Title</string>
+    <string name="lbl_detail">Journal Detail</string>
+    <string name="lbl_detail_hint">Write more about what you feel..</string>
+
+
 </resources>
